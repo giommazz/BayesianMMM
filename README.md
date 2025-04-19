@@ -1,6 +1,6 @@
 # Data Science Challenge
 
-Welcome to the HAMS Data Science Challenge! With this challenge we want to test your ability to build advanced probabilistic data models and to interpret their results.
+Welcome to the **** Data Science Challenge! With this challenge we want to test your ability to build advanced probabilistic data models and to interpret their results.
 
 
 ## Task
