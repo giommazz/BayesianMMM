@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# notebook available at: https://colab.research.google.com/drive/1uheU9a-xffog9BKGkIGTDBRvjtTBoc9D
+
 
 # install libraries
 !pip install pymc arviz --quiet
